@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/cloudwapp_task1/static/css/main.6ecab679.chunk.css",
+    "main.js": "/cloudwapp_task1/static/js/main.0c8e6c69.chunk.js",
+    "main.js.map": "/cloudwapp_task1/static/js/main.0c8e6c69.chunk.js.map",
+    "runtime-main.js": "/cloudwapp_task1/static/js/runtime-main.1ca3bc2d.js",
+    "runtime-main.js.map": "/cloudwapp_task1/static/js/runtime-main.1ca3bc2d.js.map",
+    "static/css/2.cc70bd78.chunk.css": "/cloudwapp_task1/static/css/2.cc70bd78.chunk.css",
+    "static/js/2.7d94d204.chunk.js": "/cloudwapp_task1/static/js/2.7d94d204.chunk.js",
+    "static/js/2.7d94d204.chunk.js.map": "/cloudwapp_task1/static/js/2.7d94d204.chunk.js.map",
+    "static/js/3.6fb02d79.chunk.js": "/cloudwapp_task1/static/js/3.6fb02d79.chunk.js",
+    "static/js/3.6fb02d79.chunk.js.map": "/cloudwapp_task1/static/js/3.6fb02d79.chunk.js.map",
+    "index.html": "/cloudwapp_task1/index.html",
+    "static/css/2.cc70bd78.chunk.css.map": "/cloudwapp_task1/static/css/2.cc70bd78.chunk.css.map",
+    "static/css/main.6ecab679.chunk.css.map": "/cloudwapp_task1/static/css/main.6ecab679.chunk.css.map",
+    "static/js/2.7d94d204.chunk.js.LICENSE.txt": "/cloudwapp_task1/static/js/2.7d94d204.chunk.js.LICENSE.txt",
+    "static/media/bg2.dab7efd8.jpeg": "/cloudwapp_task1/static/media/bg2.dab7efd8.jpeg",
+    "static/media/eventlist.css": "/cloudwapp_task1/static/media/event3.0fa6e4bb.jpeg",
+    "static/media/logo.6ce24c58.svg": "/cloudwapp_task1/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ca3bc2d.js",
+    "static/css/2.cc70bd78.chunk.css",
+    "static/js/2.7d94d204.chunk.js",
+    "static/css/main.6ecab679.chunk.css",
+    "static/js/main.0c8e6c69.chunk.js"
+  ]
+}
